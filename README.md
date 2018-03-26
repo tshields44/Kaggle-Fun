@@ -1,2 +1,2 @@
 # Kaggle-Fun
-Kaggle Project
+Kaggle Projects
